@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1119195464899796301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3452808923782370581}
+  - component: {fileID: 2152863440702510806}
+  m_Layer: 0
+  m_Name: NES - Super Mario Bros - World 1-1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3452808923782370581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119195464899796301}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2152863440702510806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119195464899796301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5539c14d629a64dae9b8c7016bf43f35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabGuids:
+  - 4b2a8dd897593446a96a0e5f700fbcce
+  - 970b7088f8e5841d3ba4d8c9d6e6884a
+  - b4ebd7d48fbe54a8792959e4ebc61f1e
+  - fd6dcdc83650c438c8436f18e1d4a7f0
+  - bcb5b045197f94798bdb37fd1c7956f6
+  - 212590de582a94cd09615d594125f0cf
+  - 096be0338c96c483eb22b52f74b93026
+  - b12c918bbb15244c9bb4791c6965d883
+  - c3723147a2c9d41e291c689c11756931
+  - 282ff4dabf66949c3b9cc272c257ba31
+  - 97a32f2ff96f5459dba5e5169d0fdc32
+  - c977cf50a06aa4b7a9573e1180f9c026
+  - d953a98cad2564c449ea74483791b7b2
+  - e92b9635e85f543c6a8d78bba26ba887
+  - 1d6b545c0c36d420a8aed2b72f7e98ae
+  - f5d8d273522cd4c9ba4de06116891b8f
+  - b8b8693117e914b2a8c4bd6cbd08d19d
+  - 82152d73c8d9e4966956a57f6d8abc26
+  - 180529995f953467583d25aafd89e771
+  - c08fab1163c2e4354aaed5c272de86f8
+  - 62b8cf57769a04c22b07daf327e04b6b
+  - ebe301c1af394460aba36b04dd9fa5ec
+  - 14386083eb8b84f099bc642a926ce0dd
+  - c5340eb8c5ce34d9b846c8ae89e283d7
+  - 0c88bb9ee96254e30bb6e3b98b71e06a
+  - 79bfdb2917edc4af9b1b9bd8af836485
+  - b236e7c4552254c4aa79d9ec4792be66
+  - fa54c38aa028644a5b8bfe9f42459c95
+  - 1ae8635e0693141d28a221514a5db0e5
+  - 06555e11ddfa849c4852f59ffeff9f94
+  - 4ec8d6621bac645feb161ed5f852927a
+  - c3db14821cd894a2bad5ea43343b0cf2
+  - 81006a3a1613f4b4ab4aafa1bf30551e
+  - 598a9e588c1d340e69da06dfd880d1b2
+  - 606e054db527f4bdd94ab42abbeb4e4f
+  - c704aeb021fdf46c0a67ffd7e5d17500
+  - a5a25b8f27e3a4017acce135d970b991
+  - ba6a6a91956f945ecba21fda103fe4e4
+  - 2a2cad42bafe44c0ca31d3e67925d2da
+  - 0de0ae217a21b4f32a1abb2e124c72c3
+  - 8e456915c4ab149f2a0975e852de9f4c
+  - 7568d45d03380489b97030915b8cc4c6
+  - bf6b33bea545245fea4099c6a1dfe783
+  - 4f32c268cebcc476fa715e203745552a
+  - 82f29f2cbc73d4c31841c34e5d74df1d
+  - 150c2fbdc63fd4f119db5975c0c39171
+  - 32dd254be80ba4783bd9a4ce70f3c222
+  - f65e5cafc5c974b4dbf853859916d4f2
+  - e4625def7e2c74875ac81a7a7db77924
+  - 0b6f5b0fb8f6b468182ec82da3a1e368
+  - 388e14d1401264a66b1af865c890f2e1
+  - be27d8d4c65df4a548cb6995fdc78a31
+  - d7002ad6bff3947428e4888b7640a62e
+  - 9fa42cf975af642dea937335ea59bfee
+  - b3501fa07e66f4e66846372185f1fc53
+  - 0d0d5bfc77c3e40aab3a2b21f8883382
+  - df3835d00e93d42dc92cac2e1ef4f2c9
+  - 310ab3de889194d08aa30335b90558df
+  - 7d1c649a0376a46b280e1998e2a2733b
+  - 457610996c5024e0599c918ee099f8af
+  - 36f77226a466f4f54aca68fed61eea0a
+  - 5fc5374df0f234038998a7d8e695292c
+  positionsPath: Assets/NES - Super Mario Bros - World 1-1 (1).json
